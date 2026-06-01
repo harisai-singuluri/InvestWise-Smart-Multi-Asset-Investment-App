@@ -1,0 +1,29 @@
+# Standard Java / Maven
+*.class
+*.log
+target/
+!.mvn/wrapper/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+node_modules/
+dist/
+
+# OS files
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# Docker
+**/docker-compose.override.yml
