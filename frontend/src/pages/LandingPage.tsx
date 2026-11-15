@@ -27,7 +27,7 @@ export const LandingPage: React.FC = () => {
     } catch {
       try {
         await api.auth.register({
-          fullName: 'Alex Chen (Recruiter Demo)',
+          fullName: 'Alex Morgan',
           email: 'alex@investwise.app',
           password: 'InvestWise123!'
         });

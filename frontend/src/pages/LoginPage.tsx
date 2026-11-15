@@ -37,7 +37,7 @@ export const LoginPage: React.FC = () => {
     } catch {
       try {
         await api.auth.register({
-          fullName: 'Alex Chen (Recruiter Demo)',
+          fullName: 'Alex Morgan',
           email: 'alex@investwise.app',
           password: 'InvestWise123!'
         });
@@ -75,7 +75,7 @@ export const LoginPage: React.FC = () => {
             className="w-full mb-6 py-3 px-4 bg-emerald-500/10 hover:bg-emerald-500/20 border border-emerald-500/40 rounded-2xl text-xs font-bold text-emerald-400 flex items-center justify-center space-x-2 transition-all shadow-sm"
           >
             <Sparkles className="w-4 h-4 text-emerald-400" />
-            <span>1-Click Recruiter Demo Login ($100k Balance)</span>
+            <span>1-Click Instant Demo Login ($100k Balance)</span>
           </button>
 
           <div className="relative my-4">

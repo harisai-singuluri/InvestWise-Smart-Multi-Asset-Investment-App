@@ -96,10 +96,10 @@ export const SettingsPage: React.FC = () => {
 
         <div>
           <h2 className="text-sm font-bold text-white uppercase tracking-wider mb-4 pb-2 border-b border-[#243046]">
-            Engineering Portfolio Specification
+            System Architecture & Standards
           </h2>
           <div className="bg-[#0B0E14] border border-[#1E293B] rounded-2xl p-5 text-xs text-slate-300 space-y-2 leading-relaxed">
-            <p><strong className="text-white">Role Focus:</strong> Software Engineer (SDE-1) at Pluang (Fintech Multi-Asset Investment App)</p>
+            <p><strong className="text-white">Platform Core:</strong> High-Throughput Multi-Asset Investment Platform (Equities, ETFs, Digital Assets, Commodities)</p>
             <p><strong className="text-white">Backend Architecture:</strong> Java 21, Spring Boot 3.2, Spring Security with stateless JWT, Spring Data JPA, Hibernate, PostgreSQL, H2 fallback, Redis, Apache Kafka, Flyway migrations.</p>
             <p><strong className="text-white">Financial Correctness:</strong> Arbitrary-precision calculations with <code className="text-emerald-400 font-mono">BigDecimal</code>, optimistic concurrency locking (<code className="text-emerald-400 font-mono">@Version</code>), double-entry immutable ledger accounting, and idempotency key verification.</p>
           </div>

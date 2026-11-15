@@ -7,7 +7,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue.svg)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-> A production-grade multi-asset investment application prototype engineered to demonstrate software architecture and fintech backend reliability for a **Software Engineer (SDE-1)** position at **Pluang**.
+> A production-grade multi-asset investment platform engineered with event-driven architecture, arbitrary-precision financial math, and double-entry immutable accounting.
 
 ---
 
@@ -164,8 +164,8 @@ npm run dev
 ```
 - Web Application: `http://localhost:5173`
 
-### 3. One-Click Demo User (for Reviewers)
-On the login screen, click **"1-Click Recruiter Demo Login"** to immediately sign in as `alex@investwise.app` with $100,000 cash balance!
+### 3. One-Click Demo Account
+On the login screen, click **"1-Click Instant Demo Login"** to immediately sign in as `alex@investwise.app` with $100,000 cash balance!
 
 ### 4. Run Entire Stack with Docker Compose
 ```bash

@@ -43,7 +43,7 @@ class InvestWiseIntegrationTest {
     void completeUserInvestmentLifecycle() throws Exception {
         RegisterRequest registerRequest = RegisterRequest.builder()
                 .fullName("Sarah Jenkins")
-                .email("sarah.jenkins@pluang-investwise.test")
+                .email("sarah.jenkins@investwise.test")
                 .password("SecureFintechPass123!")
                 .build();
 
