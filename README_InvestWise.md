@@ -193,4 +193,4 @@ The test suite validates:
 ---
 
 ## 8. Disclaimer
-InvestWise is an educational software engineering prototype built to demonstrate backend and full-stack engineering competency. It executes simulated orders with demo cash and does not connect to real financial brokerages or process real payments.
+InvestWise is a full-stack multi-asset investment simulation platform. All transactions, market data feeds, and portfolio valuations are simulated for testing and demonstration purposes. No actual financial brokerages are connected and no real monetary assets are handled.

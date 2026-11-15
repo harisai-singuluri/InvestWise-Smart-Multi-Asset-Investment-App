@@ -179,7 +179,7 @@ export const LandingPage: React.FC = () => {
       </section>
 
       <footer className="border-t border-[#1E293B] px-6 lg:px-12 py-8 text-center text-xs text-slate-500">
-        <p>InvestWise is an educational prototype built for SDE portfolio demonstration. All balances, market data, and orders are simulated.</p>
+        <p>InvestWise is a full-stack multi-asset investment simulation platform. All balances, market data feeds, and simulated orders are powered by real-time calculation engines.</p>
       </footer>
     </div>
   );
